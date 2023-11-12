@@ -1,6 +1,5 @@
-package DaireDilimiAlani;
 import java.util.Scanner;
-public class Main {
+public class DaireDilimiAlani {
     public static void main(String[] args) {
         int r, a;
         double pi = 3.14;
@@ -15,4 +14,5 @@ public class Main {
         System.out.println("Daire diliminin alanı : " + alan);
         scan.close();
     }
+
 }

@@ -1,6 +1,5 @@
-package BodyMassIndex;
 import java.util.Scanner;
-public class Main {
+public class BodyMassIndex {
     public static void main(String[] args) {
         double height, weight, bmi;
 

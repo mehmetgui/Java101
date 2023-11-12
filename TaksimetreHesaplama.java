@@ -1,8 +1,6 @@
-package TaksimetreHesaplama;
-
 import java.util.Scanner;
 
-public class Main {
+public class TaksimetreHesaplama {
     public static void main(String[] args) {
     int km;
     double perKm = 2.2, tutar = 10;
